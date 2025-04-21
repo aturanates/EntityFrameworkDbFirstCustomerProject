@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|d:\\cs_projects\\efcustomerdbfirst\\entityframeworkcustomerdbfirst\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|d:\\cs_projects\\efcustomerdbfirst\\entityframeworkcustomerdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|d:\\cs_projects\\efcustomerdbfirst\\entityframeworkcustomerdbfirst\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|solutionrelative:frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|d:\\cs_projects\\efcustomerdbfirst\\entityframeworkcustomerdbfirst\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|solutionrelative:modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|d:\\cs_projects\\efcustomerdbfirst\\entityframeworkcustomerdbfirst\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A853258B-78BA-43C6-8EE0-74033C9074C5}|EntityFrameworkCustomerDbFirst.csproj|solutionrelative:frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAhwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T10:14:53.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T10:14:53.095Z"
             },
             {
               "$type": "Document",
@@ -55,9 +54,9 @@
               "Title": "FrmProduct.cs",
               "DocumentMoniker": "D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\FrmProduct.cs",
               "RelativeDocumentMoniker": "FrmProduct.cs",
-              "ToolTip": "D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\FrmProduct.cs*",
-              "RelativeToolTip": "FrmProduct.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAABFAAAAAAAAAA==",
+              "ToolTip": "D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\FrmProduct.cs",
+              "RelativeToolTip": "FrmProduct.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwD0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T09:45:00.529Z",
               "EditorCaption": ""
@@ -71,8 +70,7 @@
               "ToolTip": "D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\FrmProduct.cs [Design]*",
               "RelativeToolTip": "FrmProduct.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T09:37:12.044Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-18T09:37:12.044Z"
             },
             {
               "$type": "Document",
@@ -83,8 +81,7 @@
               "ToolTip": "D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\ModelEF.edmx [Diagram1]",
               "RelativeToolTip": "ModelEF.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-04-18T07:11:03.309Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-04-18T07:11:03.309Z"
             },
             {
               "$type": "Document",
@@ -96,8 +93,7 @@
               "RelativeToolTip": "FrmCategory.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T08:47:39.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T08:47:39.326Z"
             },
             {
               "$type": "Document",
@@ -108,8 +104,7 @@
               "ToolTip": "D:\\cs_projects\\EFCustomerDbFirst\\EntityFrameworkCustomerDbFirst\\FrmCategory.cs [Design]",
               "RelativeToolTip": "FrmCategory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T08:47:30.407Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-17T08:47:30.407Z"
             }
           ]
         }
